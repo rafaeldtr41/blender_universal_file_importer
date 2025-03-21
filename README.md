@@ -95,5 +95,4 @@ MIT License - See [LICENSE](LICENSE) for details
 ---
 
 **Tested with:**  
-![Blender Version](https://img.shields.io/badge/Blender-3.0+-orange)  
-![Python Version](https://img.shields.io/badge/Python-3.7+-blue)
+![Blender Version](https://img.shields.io/badge/Blender-4.3.0+-orange)
