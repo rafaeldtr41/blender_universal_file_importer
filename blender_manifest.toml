@@ -1,0 +1,75 @@
+# Blender Add-on Manifest
+# This file defines metadata and configuration for your Blender add-on.
+schema_version="1.0.0"
+# Basic Add-on Information
+id = "universal_file_importer"
+name = "Universal File Importer"
+tagline = "Universal File Importer"
+maintainer = "Rafael D. Tamayo Rojas <rafaeldtr41@gmail.com>"
+description = "A Blender add-on for safe importing of 3D assets (FBX/OBJ/GLTF/BLEND) with isolated context and preview capabilities."
+author = "Rafael D. Tamayo Rojas"
+version = "1.0.0"  # Semantic versioning (major, minor, patch)
+blender_version_min = "4.3.0"  # Minimum Blender version required
+category = "Import-Export"  # Blender add-on category
+type= "add-on"
+
+# Add-on Location
+module = "universal_file_importer"  # Name of the main Python module
+# If your add-on is in a subdirectory, specify it here:
+# subdirectory = "src/universal_file_importer"
+
+# Add-on Dependencies
+# List any Python dependencies required by your add-on
+dependencies = [
+    "bpy",
+    "mathutils",
+    "os"
+
+]
+
+# Optional: Add-on Website
+website = "https://github.com/rafaeldtr41/blender_universal_file_importer"
+# Optional: Add-on Documentation
+doc_url = "https://github.com/rafaeldtr41/blender_universal_file_importer/wiki"
+# Optional: Add-on Tracker (e.g., for issues)
+tracker_url = "https://github.com/rafaeldtr41/blender_universal_file_importer/issues"
+
+# Add-on License
+license = ["SPDX:GPL-3.0-or-later"]  # SPDX license identifier
+# Optional: License file (relative to the add-on root)
+license_file = "LICENSE"
+
+# Add-on Icons (Optional)
+# Paths to icon files (relative to the add-on root)
+# icons = {
+#     "32x32": "icons/icon_32.png",
+#     "48x48": "icons/icon_48.png",
+# }
+
+# Add-on Preferences (Optional)
+# Define if your add-on has user-configurable settings
+ has_preferences = false
+
+# Add-on Scripts (Optional)
+# List any additional scripts to include
+ scripts = [
+     "universal_file_importer.py",
+ ]
+
+# Add-on Assets (Optional)
+# List any additional asset files (e.g., images, data files)
+# assets = [
+#     "assets/preview_image.png",
+# ]
+
+# Add-on Support (Optional)
+# Define support levels for your add-on
+support = "COMMUNITY"  # Options: OFFICIAL, COMMUNITY, TESTING
+
+# Add-on Warning (Optional)
+# Display a warning message when enabling the add-on
+# warning = "This is an experimental add-on. Use at your own risk."
+
+# Add-on Wiki URL (Optional)
+# Link to a wiki or documentation for your add-on
+# wiki_url = "https://github.com/rafaeldtr41/blender_universal_file_importer/wiki"
