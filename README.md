@@ -32,17 +32,16 @@ Latest development version (manual updates)
 
 ### Basic Import Workflow
 1. Open Blender's File Browser (`File > Import`)
-2. Navigate to your model file
-3. **Activate the Import Panel**  
-   ![Panel Location](https://via.placeholder.com/600x200.png?text=File+Browser+Panel+Screenshot)
+   ![Open Browser](https://github.com/rafaeldtr41/blender_universal_file_importer/blob/main/images/Captura%20de%20pantalla%202025-03-21%20222323.png)
+3. Navigate to your model file
+4. **Activate the Import Panel**  
    - Press `N` to open sidebar
    - Select "Import" category
 
-4. Click **"Clean Import"** button  
-   ![Import Button](https://via.placeholder.com/400x100.png?text=Clean+Import+Button)
-
-5. View imported model in isolated context  
-   ![Imported Model](https://via.placeholder.com/800x400.png?text=Imported+Model+Preview)
+5. Click **"Clean Import"** button  
+   
+6. View imported model in isolated context  
+   ![Imported Model]([https://via.placeholder.com/800x400.png?text=Imported+Model+Preview](https://github.com/rafaeldtr41/blender_universal_file_importer/blob/main/images/Captura%20de%20pantalla%202025-03-21%20222806.png))
 
 ## Supported Formats 📄
 
@@ -58,10 +57,10 @@ Latest development version (manual updates)
 If you find this add-on useful, consider supporting its development:
 
 ### Buy Me a Coffee
-[![Buy Me A Coffee](https://via.placeholder.com/200x200.png?text=USDT+QR+Code)](https://your-donation-link.com)  
+![Buy Me A Coffee](https://github.com/rafaeldtr41/blender_universal_file_importer/blob/main/images/Screenshot_2025-03-21-18-36-47-635_com.wallet.crypto.trustapps.jpg))]  
 **USDT (TRC20):**  
 ```
-TYourUSDTWalletAddressHere
+0x5d85bA08C433219B06a94BeCc68C4ccbc6c97857
 ```
 
 [Click here to donate via USDT](https://your-donation-link.com)
