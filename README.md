@@ -14,11 +14,11 @@
 ## Download & Installation 📥
 
 ### Option 1: Blender Market (Recommended)
-[![Blender Market](https://img.shields.io/badge/Blender_Market-Download-FF9900)]([[https://www.blendermarket.com/products/your-addon](https://extensions.blender.org/approval-queue/universal-file-importer/)](https://extensions.blender.org/approval-queue/universal-file-importer/))  
+[![Blender Market](https://img.shields.io/badge/Blender_Market-Download-FF9900)](https://extensions.blender.org/approval-queue/universal-file-importer)
 Official store version with automatic updates
 
 ### Option 2: GitHub Releases
-[![GitHub Release](https://img.shields.io/badge/GitHub-Download-181717)](https://github.com/yourusername/blender_universal_file_importer/releases)  
+[![GitHub Release](https://img.shields.io/badge/GitHub-Download-181717)](https://github.com/raaeldtr41/blender_universal_file_importer/releases)  
 Latest development version (manual updates)
 
 ### Installation Steps
