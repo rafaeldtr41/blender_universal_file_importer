@@ -14,7 +14,7 @@
 ## Download & Installation 📥
 
 ### Option 1: Blender Market (Recommended)
-[![Blender Market](https://img.shields.io/badge/Blender_Market-Download-FF9900)](https://www.blendermarket.com/products/your-addon)  
+[![Blender Market](https://img.shields.io/badge/Blender_Market-Download-FF9900)]([[https://www.blendermarket.com/products/your-addon](https://extensions.blender.org/approval-queue/universal-file-importer/)](https://extensions.blender.org/approval-queue/universal-file-importer/))  
 Official store version with automatic updates
 
 ### Option 2: GitHub Releases
